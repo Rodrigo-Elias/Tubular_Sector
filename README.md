@@ -13,4 +13,6 @@ We can rotate, shoot and destroy the enemies, i would like to do this project wi
 
 The old Gyruss had the enemy ships doing a sort of "ballet" when entering the scene... So a spawner with dancing ships is something im thinking to do next.
 
-Well, so far so good. Going to focus on a bootcamp and back to spaceships in the weekend.
+
+Unfortunately, unity and linux are on a bad combination over here, and for now im going to halt this project. Maybe try on another engine like godot,
+or even phaser to improve my JS skills while on it.
